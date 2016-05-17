@@ -1,3 +1,3 @@
 # traductores
 
- Jose Requena 22.883.559
+ NOmbre:Jose Requena <br> Cedula: 22.883.559
